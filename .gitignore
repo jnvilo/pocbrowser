@@ -1,0 +1,17 @@
+virtualenv
+virtualenv/ 
+*.pyc
+.DS_Store
+_build
+.*.sw[po]
+*.egg-info
+dist
+build
+MANIFEST
+.buildinfo
+.tox
+env
+env3
+include/
+lib/
+lib64
